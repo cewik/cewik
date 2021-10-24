@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
 </div>
 <div align="center">
-<img src="https://github.com/cewik/cewik/blob/main/icons/2643.jpg">
+<img src="https://github.com/cewik/cewik/blob/main/icons/2643.jpg" width="%100">
 </div>
 
 <div align="center"> <h1 align="center"> Hi There! I'm Muhammet Ali Çevik 👋 </h1> </div>
@@ -86,21 +86,15 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>                         </p>                                                   
 <div>                                                                                                                                                                             
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a>                                                         
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(2).png"/> </a>                  
-                                                        
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(2).png"/> </a>                                                                  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(4).png"/> </a> 
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(5).png/> </a>                                                         
-                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(5).png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(7).png"/> </a>                  
-                                                        
-      
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(10).png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(12).png"/> </a>                  
-                                                         
- 
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(15).png/> </a>  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(15).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(16).png"/> </a> 
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(17).png/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(17).png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(18).png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(19).png"/> </a>                  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(20).png"/> </a>                                                         
