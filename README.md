@@ -85,16 +85,34 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                                                             
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-flask-50.png"/> </a>                                                         
                                                                                                                     
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-git-48.png"/> </a>                                                         
-                                                                                                 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-git-48.png"/> </a>      </p>                                                   
+<div>                                                                                                
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-github-48.png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-64.png"/> </a>                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-jira-48.png"/> </a>      
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-microsoft-sql-server-48.png"/> </a>      
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                         <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                         <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                  
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                         <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                                     
-                                                                                                                  
-                                                                                                                  </p>
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg.png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(9).png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(8).png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(7).png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(6).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(5).png/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(4).png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(3).png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(2).png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a>      
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(15).png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(14).png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(13).png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(12).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(11).png/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-slack-new-64.png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-jira-64.png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-github-64.png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a>                                                                   <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-github-64%20(1).png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-git-64.png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                                   
+                                                                                                                  </p></div> 
 
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
