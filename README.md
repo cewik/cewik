@@ -83,9 +83,18 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/linkedin.png"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                                                             
-                                                                                      
-
-</p>
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-flask-50.png"/> </a>                                                         
+                                                                                                                    
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-git-48.png"/> </a>                                                         
+                                                                                                 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-github-48.png"/> </a>                                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-64.png"/> </a>                                         
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-jira-48.png"/> </a>      
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-microsoft-sql-server-48.png"/> </a>      
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                         <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                         <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                  
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                         <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-google-sheets-48.png"/> </a>                                                                     
+                                                                                                                  
+                                                                                                                  </p>
 
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
