@@ -86,13 +86,6 @@ Here are some ideas to get you started:
 
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
-</p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir1031&theme=algolia&layout=compact" alt="languages" width="50%" >
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir1031&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir1031&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
