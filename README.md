@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
 </div>
 <div align="center">
-<img src="https://github.com/cewik/cewik/blob/main/icons/2643.jpg" width="%100">
+<img src="https://github.com/cewik/cewik/blob/main/icons/Colorful%20Business%20Data%20General%20Linkedin%20Banner%20(1).png" width="%100">
 </div>
 
 <div align="center"> <h1 align="center"> Hi There! I'm Muhammet Ali Çevik 👋 </h1> </div>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                                
                                                          
                                                         
-                                                                                                                      </p></div> 
+                                                                                                                      
 
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
