@@ -14,16 +14,15 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=cewik" alt="cewik" height="28"/></a>
 </p></div>
 
-<div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
+<div align="center"> <h1 align="center"> DATA VISUALIZATION </h1> </div>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/seaborn.png" height="64"/> </a>    
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(22).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(24).png"/> </a>   
   
-<div align="center"> <h1 align="center">:bar_chart: LANGUAGES AND :books: LIBRARIES </h1> </div>
+<div align="center"> <h1 align="center">:books: LIBRARIES </h1> </div>
 <p align="center">
-<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" height="64"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(20).png"/> </a>   
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(2).png"/> </a>                                                                  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(4).png"/> </a> 
@@ -38,7 +37,6 @@
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(18).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-slack-new-64.png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-jira-64.png"/> </a>                  
-<a href="#" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" height="64"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-git-64.png"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(21).png"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="64"/> </a>
