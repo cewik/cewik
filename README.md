@@ -18,10 +18,8 @@
 - 📫 How to reach muhammet.ali.cevik@outlook.com 
 </p>
 
-<div> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulakkoc/)  
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cewik0770@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@cewik0770)        
+<div> <h1 align="center"> 👨 SOCIAL 👩 </h1> 
+      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cewik" alt="cewik" /> </p>     
 
 
@@ -33,15 +31,21 @@
   <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="mailto:muhammet.ali.cevik@outlook.com"> 
-  <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" alt="Outlook"/, height="30">
-<p style="background-color:#0072C6">OUTLOOK
-</p>
+  <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" alt="Outlook"/, height="32">
 </a>
+<a href="mailto:cewik0770@gmail.com""> 
+  <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="Outlook"/, height="32">
+</a>
+
+
+
+https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png
 <a href="https://-...-.medium.com">
   <img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
 </a>
 
 </p>
+                                                                                               </div>
 
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 
