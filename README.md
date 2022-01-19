@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="mailto:muhammet.ali.cevik@outlook.com"> 
-  <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" alt="Outlook"/>
+  <img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" alt="Outlook"/, height="32">
 </a>
 <a href="https://-...-.medium.com">
   <img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
