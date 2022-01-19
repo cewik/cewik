@@ -11,13 +11,13 @@
 <a href="https://www.linkedin.com/in/muhammet-ali-cevik"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:cewik0770@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 <a href="https://-...-.medium.com"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=cewik" alt="cewik" height="30"/></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=cewik" alt="cewik" height="28"/></a>
 </p></div>
 
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a> 
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/seaborn.png" /> </a>    
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/seaborn.png" height="64"/> </a>    
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(22).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(24).png"/> </a>   
   
