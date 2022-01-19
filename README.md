@@ -37,6 +37,11 @@
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 
 <p align="center">
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/seaborn.png" height="64"/> </a>    
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(24).png"/> </a>   
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(22).png"/> </a>    
+  
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
@@ -71,7 +76,8 @@
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>                         </p>                                                   
 <div>                                                                                                                                                                             
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(1).png"/> </a>                                                         
+
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/seaborn.png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(2).png"/> </a>                                                                  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(4).png"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(5).png"/> </a>                                                         
@@ -85,9 +91,9 @@
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(19).png"/> </a>                  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(20).png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(21).png"/> </a>      
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(22).png"/> </a>                                                         
+                                                       
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(23).png"/> </a>                  
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(24).png"/> </a> 
+
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-slack-new-64.png"/> </a>                                                         
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-jira-64.png"/> </a>                  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-github-64.png"/> </a>                                                               
