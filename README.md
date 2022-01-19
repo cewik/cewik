@@ -97,18 +97,8 @@
                                                         
                                                                                                                       
 
-<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1>
-  <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f7e809937e3d7932bd8e2784a31ed27044520eae5ab797eaf262840b359f6cea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d657264656d2d74756e636572267468656d653d616c676f6c6961266c61796f75743d636f6d70616374"><img align="center" src="https://camo.githubusercontent.com/f7e809937e3d7932bd8e2784a31ed27044520eae5ab797eaf262840b359f6cea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d657264656d2d74756e636572267468656d653d616c676f6c6961266c61796f75743d636f6d70616374" alt="languages" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cewik&amp;theme=algolia&amp;layout=compact" style="max-width: 100%;"></a>
-</p></div>
 
 
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdfghsfds&show_icons=true&locale=en&layout=compact" alt="cewik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdfghsfds&show_icons=true&locale=en" alt="cewik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cewik" alt="cewik" /></p> 
-                                       
-                                       
-                                       </div>
 
