@@ -1,52 +1,38 @@
-### Hi there 👋
-
-
-**cewik/cewik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<div align="center">
-<img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
-</div>
-<div align="center">
-<img src="https://github.com/cewik/cewik/blob/main/icons/2643.jpg" width="%100">
-</div>
-
-<div align="center"> <h1 align="center"> Hi There! I'm Muhammet Ali Çevik 👋 </h1> </div>
-
-<p align="center">
-- :telescope: I’m currently working on Data Analyses
+<div> <h1 align="center"> Hi There! I'm Muhammet Ali Çevik 👋 </h1> </div>
+<p>
+- 👀 I’m interested in Data Science
 </p>
-<p align="center">
-- :seedling: I’m currently learning Data Analyses tools 
+<p>
+- 🔭 I’m currently working on Machine Learning
 </p>
-<p align="center">
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer 
+<p>
+- 🌱 I’m a lifetime learner and nowadays learning NLP (Neuro Linguistic Programming)
+</p>
+<p>
+- 💞️ I’m looking to collaborate on Machine Learning projects
+</p>
+<p>
+- 💬 I will be honored to share my experience and knowledge with you and always be eager to learn what you will offer
+</p>
+<p>
+- 📫 How to reach muhammet.ali.cevik@outlook.com 
 </p>
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-
+<div> <h1 align="center"> 👨 SOCIAL 👩 </h1> 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammet-ali-cevik/>
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/muhammet-ali-cevik"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:cewik0770@gmail.com">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="https://-...-.medium.com">
-  <img align="center" src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
 </a>
-
-</p>
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=cewik" alt="cewik" height="30"/>
+</a>
+</p></div>
 
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 
@@ -109,10 +95,10 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                                
                                                          
                                                         
-                                                                                                                      </p></div> 
-
-<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
+                                                                                                                      
 
 
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
+
+
+
 
