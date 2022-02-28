@@ -45,12 +45,9 @@
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(7).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>   
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/streamlit-logo-secondary-colormark-lighttext.png" height="64"/> </a> 
-
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/flask.png" height="64"/> </a> 
-  
-
-
-<div>                                                                                                                                                                             
+<a href="#" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" height="64"/> </a> 
+  </p>                                                                                                                                                                             
   <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
