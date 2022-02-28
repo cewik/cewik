@@ -54,6 +54,10 @@
 </p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
+<p align="center">
+<a href="https://github.com/cewik/Data_Science_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cewik&repo=Data_Science_Projects&theme=algolia" />
+</a>
 
 <p align="center">
 <a href="https://github.com/cewik/ML">
