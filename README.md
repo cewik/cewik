@@ -40,12 +40,11 @@
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-git-64.png"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(21).png"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="64"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="sublime-text" /> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="64"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(7).png"/> </a>  
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>   
-<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/streamlit-logo-secondary-colormark-lighttext.png" height="64"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/flask.png" height="64"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/streamlit-logo-secondary-colormark-lighttext.png" height="64"/> </a> 
+<a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" height="64"/> </a> 
   </p>                                                                                                                                                                             
   <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
