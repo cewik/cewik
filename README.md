@@ -43,3 +43,13 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="64"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/pngegg%20(7).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cewik/cewik/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                                 <div>                                                                                                                                                                             
+  <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
+
+</p align="center">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cewik&theme=algolia&layout=compact" alt="languages" width="50%" >
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cewik&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cewik&theme=algolia" alt="my commit status" width="48.2%"/>
+</p>
+
