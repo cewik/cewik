@@ -59,8 +59,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cewik&repo=Data_Science_Projects&theme=algolia" />
 </a>
 
-<p align="center">
 <a href="https://github.com/cewik/ML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cewik&repo=ML&theme=algolia" />
 </a>
+</p>
   
