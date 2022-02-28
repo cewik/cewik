@@ -53,3 +53,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cewik&theme=algolia" alt="my commit status" width="48.2%"/>
 </p>
 
+<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
+
+<p align="center">
+<a href="https://github.com/cewik/ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cewik&repo=ML&theme=algolia" />
+</a>
+  
